@@ -3,7 +3,7 @@
 	url = https://github.com/free5gc/amf.git
 [submodule "ausf"]
 	path = NFs/ausf
-	url = https://github.com/free5gc/ausf.git
+	url = https://github.com/thevirg/ausf.git
 [submodule "n3iwf"]
 	path = NFs/n3iwf
 	url = https://github.com/free5gc/n3iwf.git
@@ -21,7 +21,7 @@
 	url = https://github.com/free5gc/smf.git
 [submodule "udm"]
 	path = NFs/udm
-	url = https://github.com/free5gc/udm.git
+	url = https://github.com/thevirg/udm.git
 [submodule "udr"]
 	path = NFs/udr
 	url = https://github.com/free5gc/udr.git
